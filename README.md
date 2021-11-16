@@ -7,9 +7,14 @@ How many different segments of customers are there?
 How are these segments different from each other?
 What are your recommendations to the bank on how to better market to and service these customers?
 
->Preprocssed the data before training the model
->Used K Mean algorithm to create clusters
->Analyzed elbow plot to come up with optimal number of clusters
->Analysed above obtained clusters on different parameters like Avg Credit Limit,Total  no of Visits to bank,Total credit cards etc.
->ALso implemented PCA as no of features are large and again repeated all the above steps to get the clusters.
->The no of clusters obtained with PCA implementation and without implementation is same.
+1>Preprocssed the data before training the model.
+
+2>Used K Mean algorithm to create clusters.
+
+3>Analyzed elbow plot to come up with optimal number of clusters.
+
+4>Analysed above obtained clusters on different parameters like Avg Credit Limit,Total  no of Visits to bank,Total credit cards etc.
+
+5>ALso implemented PCA as no of features are large and again repeated all the above steps to get the clusters.
+
+6>The no of clusters obtained with PCA implementation and without implementation is same.
